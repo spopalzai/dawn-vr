@@ -14,6 +14,10 @@
         bottom: 0px !important;
       }
 
+      .a-enter-vr-button:active, .a-enter-vr-button:hover{
+        background-color: transparent !important; 
+      }
+
       .a-enter-vr-button{
         min-height: 50px !important; 
       }
@@ -25,7 +29,7 @@
       .vr_nav .social_icons a{
         float: left;
         font-size: 20px;
-        margin-top: 5px;
+        margin-top: 10px;
         padding: 8px;
       }
 
